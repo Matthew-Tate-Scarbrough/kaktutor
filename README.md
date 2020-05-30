@@ -20,6 +20,20 @@ I intend on writing a quirky shell script to make it function similar to Vimtuto
 but nigh is not the time.
 
 
+How to Get Started
+------------------
+
+I recommend creating a source code directory in your `~/Downloads`, called `.src`.
+
+1. `mkdir -p ~/Downloads/.src`
+2. `cd ~/Downloads/.src`
+3. `git clone https://github.com/Matthew-Tate-Scarbrough/kaktutor.git`
+
+Now, you may view the file any time:
+
+4. `less`/`kak` `~/Downloads/.src/kaktutor/kaktutor.txt`
+
+
 What You Can Do To Help
 -----------------------
 
